@@ -1,0 +1,148 @@
+2006-03-27  Akira KINJO  <akinjo@genes.nig.ac.jp>
+
+	* xpredmsub.c: ad hoc probability for each SS class prediction.
+
+2006-03-15  Akira KINJO  <akinjo@genes.nig.ac.jp>
+
+	* xpredmsub.c: Confidence level for SS improved.
+
+2006-03-15  Akira KINJO  <akinjo@genes.nig.ac.jp>
+
+	* xpredmsub.c: Confidence level for SS improved.
+
+2006-03-13  Akira KINJO  <akinjo@genes.nig.ac.jp>
+
+	* xpredmsub.c:
+	added routines for ensemble prediction by local-linear fit.
+
+	* xpredm.h, xpredm.c:
+	added big_wet: ensemble prediction by local-linear fit.
+
+2006-03-13  Akira KINJO  <akinjo@genes.nig.ac.jp>
+
+	* xpredmsub.c:
+	added routines for ensemble prediction by local-linear fit.
+
+	* xpredm.h, xpredm.c:
+	added big_wet: ensemble prediction by local-linear fit.
+
+2006-03-13  Akira KINJO  <akinjo@genes.nig.ac.jp>
+
+	* xpredmsub.c:
+	added routines for ensemble prediction by local-linear fit.
+
+	* xpredm.h, xpredm.c:
+	added big_wet: ensemble prediction by local-linear fit.
+
+2006-03-09  Akira KINJO  <akinjo@genes.nig.ac.jp>
+
+	* xpredm.c: static big arrays.
+
+2006-03-09  Akira KINJO  <akinjo@genes.nig.ac.jp>
+
+	* xpredm.c: static big arrays.
+
+2006-02-21  Akira KINJO  <akinjo@genes.nig.ac.jp>
+
+	* xesn.h: CONV_LIM changed: 1.e-6 -> 1.e-3.
+
+2006-02-21  Akira KINJO  <akinjo@genes.nig.ac.jp>
+
+	* xesn.h: CONV_LIM changed: 1.e-6 -> 1.e-3.
+
+2006-02-20  Akira KINJO  <akinjo@genes.nig.ac.jp>
+
+	* Makefile: removed mtwister.
+
+	* Makefile: ranlib removed.
+
+	* chkaccu.h: note.
+
+	* Makefile: New file.
+
+	* xpredmsub.c: added note.
+
+	* xpredmsub.c, xpredm.h: New file.
+
+	* xpredm.c: added note.
+
+	* xpredm.c, xesn.h: New file.
+
+	* xesn.c: added note.
+
+	* xesn.c, sov.h: New file.
+
+	* sov.c: added note.
+
+	* sov.c: New file.
+
+	* secdp.c: added vcid[].
+
+	* secdp.c: New file.
+
+	* lpredm.c: added vcid[].
+
+	* lpredm.c: New file.
+
+	* crndump.c: added vcid[].
+
+	* crndump.c, chkaccu.h: New file.
+
+	* blast.c: added vcid[].
+
+	* blast.c: New file.
+
+	* chkaccu.c: added vcid[].
+
+	* chkaccu.c: New file.
+
+	* blast.h: added vcid[].
+
+	* blast.h: New file.
+
+2006-02-20  Akira KINJO  <akinjo@genes.nig.ac.jp>
+
+	* chkaccu.h: note.
+
+	* Makefile: New file.
+
+	* xpredmsub.c: added note.
+
+	* xpredmsub.c, xpredm.h: New file.
+
+	* xpredm.c: added note.
+
+	* xpredm.c, xesn.h: New file.
+
+	* xesn.c: added note.
+
+	* xesn.c, sov.h: New file.
+
+	* sov.c: added note.
+
+	* sov.c: New file.
+
+	* secdp.c: added vcid[].
+
+	* secdp.c: New file.
+
+	* lpredm.c: added vcid[].
+
+	* lpredm.c: New file.
+
+	* crndump.c: added vcid[].
+
+	* crndump.c, chkaccu.h: New file.
+
+	* blast.c: added vcid[].
+
+	* blast.c: New file.
+
+	* chkaccu.c: added vcid[].
+
+	* chkaccu.c: New file.
+
+	* blast.h: added vcid[].
+
+	* blast.h: New file.
+
