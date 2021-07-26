@@ -40,8 +40,10 @@ static void get_compo(pssm_t *x)
   for(i=0; i<20; i++) x->compo[i] = 0.0;
   for(i=0; i<x->len; i++) {
     ind = strchr(amino1, x->seq[i]) - amino1;
-    if(ind>=0) {
+    if(ind>=0 && ind < 20) {
       x->compo[ind] += 1.0;
+    } else {
+      x->compo[0] += 1.0;
     }
   }
 
