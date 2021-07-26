@@ -11,7 +11,7 @@ Ref. 1 (Description of the software)
   "CRNPRED: Highly accurate prediction of one-dimensional protein structures
     by large-scale critical random networks."
   Kinjo AR, Nishikawa K.
-  submitted (2006)
+  7:401 (2006) (DOI: https://doi.org/10.1186/1471-2105-7-401)
 
 and 
 
