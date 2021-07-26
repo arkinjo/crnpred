@@ -20,7 +20,7 @@ Ref. 2 (Method of critical random networks)
     orders of native protein structure from amino acid sequence using critical 
     random networks."
   Kinjo AR, Nishikawa K.
-  BIOPHYSICS, 1:67-74 (2005) (DOI: https://dx.doi.org/10.2142/biophysics.1.67).
+  BIOPHYSICS, 1:67-74 (2005) (DOI: https://doi.org/10.2142/biophysics.1.67).
 
 This software is in public domain. You can use, modify and/or destroy it freely,
 but we do not take any responsibility for the consequences of your use.
